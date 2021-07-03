@@ -8,6 +8,6 @@ Demo repo for learning
 * Two 
 * three
 
-### image
+### Image
 ![image](https://user-images.githubusercontent.com/86160725/124358378-00612d00-dbee-11eb-91ab-b81938ee1727.png)
 
